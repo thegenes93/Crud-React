@@ -1,14 +1,19 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "name": "theogenes Oliveira",
-            "email": "teste@teste.com"
-        },
-        {
-            "id": 2,
-            "name": "Maria Oliveira",
-            "email": "maria@teste.com" 
-        }
-    ]
+  "users": [
+    {
+      "id": 2,
+      "name": "Maria Oliveira",
+      "email": "maria@teste.com.br"
+    },
+    {
+      "name": "Theogenes",
+      "email": "a@a.com",
+      "id": 4
+    },
+    {
+      "name": "a",
+      "email": "car@cara.com",
+      "id": 6
+    }
+  ]
 }
